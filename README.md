@@ -9,9 +9,6 @@ This is a responsive front-end clone of Apple's landing page, Create by [Gemechi
 - Clean, modular code
 - Easy to customize
 
-## 📷 Screenshots
-
-> *(Add screenshots here if you'd like to showcase the layout)*
 
 ## 🛠️ Technologies Used
 
